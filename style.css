@@ -1,0 +1,16 @@
+html { 
+    height: 100%;
+}
+
+body {
+    height: 100%;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    width: 10em;
+    height: 2em;
+    font-size: 1.1em;
+}
